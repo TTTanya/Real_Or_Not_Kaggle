@@ -4,4 +4,4 @@ In this competition, I'm challenged to build a machine learning model that predi
 
 In this project I'm using NLP with neural networks testing three different architectures: CNN, LSTM and GRU.  
 
-Best score evaluated in metric 'Accuracy' = 0.81
+Best score evaluated in metric 'Accuracy' = 0.81.
